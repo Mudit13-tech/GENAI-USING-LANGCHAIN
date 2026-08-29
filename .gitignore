@@ -1,0 +1,15 @@
+# Environment variables (NEVER commit real API keys!)
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+*.egg-info/
+
+# IDEs
+.vscode/
+.idea/
